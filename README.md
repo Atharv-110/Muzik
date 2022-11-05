@@ -1,6 +1,6 @@
-<center>
-<img width="400" align="center" src="Preview/icon_hori.png">
-</center>
+<div align="center">
+<img width="400" src="Preview/icon_hori.png">
+</div>
 <hr>
 
 ## System Requirements
